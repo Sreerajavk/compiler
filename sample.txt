@@ -1,0 +1,7 @@
+
+int main()
+{
+    int a = 10 , b , c;
+    c = a + b;
+    int a = 10;
+}
